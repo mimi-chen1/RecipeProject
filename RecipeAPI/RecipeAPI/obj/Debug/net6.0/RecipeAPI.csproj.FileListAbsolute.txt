@@ -27,3 +27,100 @@ C:\Users\user1\Desktop\שעורי בית\כתה ו' תשפד\Angular\פרויק�
 C:\Users\user1\Desktop\שעורי בית\כתה ו' תשפד\Angular\פרויקט\Recipe\RecipeAPI\RecipeAPI\obj\Debug\net6.0\ref\RecipeAPI.dll
 C:\Users\user1\Desktop\שעורי בית\כתה ו' תשפד\Angular\פרויקט\Recipe\RecipeAPI\RecipeAPI\bin\Debug\net6.0\Recipe.Data.dll
 C:\Users\user1\Desktop\שעורי בית\כתה ו' תשפד\Angular\פרויקט\Recipe\RecipeAPI\RecipeAPI\bin\Debug\net6.0\Recipe.Data.pdb
+C:\תכנות ו\Angular\Recipe-Project-Angular\RecipeAPI\RecipeAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\תכנות ו\Angular\Recipe-Project-Angular\RecipeAPI\RecipeAPI\bin\Debug\net6.0\appsettings.json
+C:\תכנות ו\Angular\Recipe-Project-Angular\RecipeAPI\RecipeAPI\bin\Debug\net6.0\RecipeAPI.exe
+C:\תכנות ו\Angular\Recipe-Project-Angular\RecipeAPI\RecipeAPI\bin\Debug\net6.0\RecipeAPI.deps.json
+C:\תכנות ו\Angular\Recipe-Project-Angular\RecipeAPI\RecipeAPI\bin\Debug\net6.0\RecipeAPI.runtimeconfig.json
+C:\תכנות ו\Angular\Recipe-Project-Angular\RecipeAPI\RecipeAPI\bin\Debug\net6.0\RecipeAPI.dll
+C:\תכנות ו\Angular\Recipe-Project-Angular\RecipeAPI\RecipeAPI\bin\Debug\net6.0\RecipeAPI.pdb
+C:\תכנות ו\Angular\Recipe-Project-Angular\RecipeAPI\RecipeAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\תכנות ו\Angular\Recipe-Project-Angular\RecipeAPI\RecipeAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\תכנות ו\Angular\Recipe-Project-Angular\RecipeAPI\RecipeAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\תכנות ו\Angular\Recipe-Project-Angular\RecipeAPI\RecipeAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\תכנות ו\Angular\Recipe-Project-Angular\RecipeAPI\RecipeAPI\bin\Debug\net6.0\Recipe.Data.dll
+C:\תכנות ו\Angular\Recipe-Project-Angular\RecipeAPI\RecipeAPI\bin\Debug\net6.0\Recipe.Data.pdb
+C:\תכנות ו\Angular\Recipe-Project-Angular\RecipeAPI\RecipeAPI\obj\Debug\net6.0\RecipeAPI.csproj.AssemblyReference.cache
+C:\תכנות ו\Angular\Recipe-Project-Angular\RecipeAPI\RecipeAPI\obj\Debug\net6.0\RecipeAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\תכנות ו\Angular\Recipe-Project-Angular\RecipeAPI\RecipeAPI\obj\Debug\net6.0\RecipeAPI.AssemblyInfoInputs.cache
+C:\תכנות ו\Angular\Recipe-Project-Angular\RecipeAPI\RecipeAPI\obj\Debug\net6.0\RecipeAPI.AssemblyInfo.cs
+C:\תכנות ו\Angular\Recipe-Project-Angular\RecipeAPI\RecipeAPI\obj\Debug\net6.0\RecipeAPI.csproj.CoreCompileInputs.cache
+C:\תכנות ו\Angular\Recipe-Project-Angular\RecipeAPI\RecipeAPI\obj\Debug\net6.0\RecipeAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\תכנות ו\Angular\Recipe-Project-Angular\RecipeAPI\RecipeAPI\obj\Debug\net6.0\RecipeAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\תכנות ו\Angular\Recipe-Project-Angular\RecipeAPI\RecipeAPI\obj\Debug\net6.0\staticwebassets\msbuild.RecipeAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\תכנות ו\Angular\Recipe-Project-Angular\RecipeAPI\RecipeAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.RecipeAPI.props
+C:\תכנות ו\Angular\Recipe-Project-Angular\RecipeAPI\RecipeAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RecipeAPI.props
+C:\תכנות ו\Angular\Recipe-Project-Angular\RecipeAPI\RecipeAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RecipeAPI.props
+C:\תכנות ו\Angular\Recipe-Project-Angular\RecipeAPI\RecipeAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\תכנות ו\Angular\Recipe-Project-Angular\RecipeAPI\RecipeAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\תכנות ו\Angular\Recipe-Project-Angular\RecipeAPI\RecipeAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\תכנות ו\Angular\Recipe-Project-Angular\RecipeAPI\RecipeAPI\obj\Debug\net6.0\scopedcss\bundle\RecipeAPI.styles.css
+C:\תכנות ו\Angular\Recipe-Project-Angular\RecipeAPI\RecipeAPI\obj\Debug\net6.0\RecipeAPI.csproj.CopyComplete
+C:\תכנות ו\Angular\Recipe-Project-Angular\RecipeAPI\RecipeAPI\obj\Debug\net6.0\RecipeAPI.dll
+C:\תכנות ו\Angular\Recipe-Project-Angular\RecipeAPI\RecipeAPI\obj\Debug\net6.0\refint\RecipeAPI.dll
+C:\תכנות ו\Angular\Recipe-Project-Angular\RecipeAPI\RecipeAPI\obj\Debug\net6.0\RecipeAPI.pdb
+C:\תכנות ו\Angular\Recipe-Project-Angular\RecipeAPI\RecipeAPI\obj\Debug\net6.0\RecipeAPI.genruntimeconfig.cache
+C:\תכנות ו\Angular\Recipe-Project-Angular\RecipeAPI\RecipeAPI\obj\Debug\net6.0\ref\RecipeAPI.dll
+E:\RecipeAPI\RecipeAPI\bin\Debug\net6.0\appsettings.Development.json
+E:\RecipeAPI\RecipeAPI\bin\Debug\net6.0\appsettings.json
+E:\RecipeAPI\RecipeAPI\bin\Debug\net6.0\RecipeAPI.exe
+E:\RecipeAPI\RecipeAPI\bin\Debug\net6.0\RecipeAPI.deps.json
+E:\RecipeAPI\RecipeAPI\bin\Debug\net6.0\RecipeAPI.runtimeconfig.json
+E:\RecipeAPI\RecipeAPI\bin\Debug\net6.0\RecipeAPI.dll
+E:\RecipeAPI\RecipeAPI\bin\Debug\net6.0\RecipeAPI.pdb
+E:\RecipeAPI\RecipeAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\RecipeAPI\RecipeAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\RecipeAPI\RecipeAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\RecipeAPI\RecipeAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\RecipeAPI\RecipeAPI\bin\Debug\net6.0\Recipe.Data.dll
+E:\RecipeAPI\RecipeAPI\bin\Debug\net6.0\Recipe.Data.pdb
+E:\RecipeAPI\RecipeAPI\obj\Debug\net6.0\RecipeAPI.csproj.AssemblyReference.cache
+E:\RecipeAPI\RecipeAPI\obj\Debug\net6.0\RecipeAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\RecipeAPI\RecipeAPI\obj\Debug\net6.0\RecipeAPI.AssemblyInfoInputs.cache
+E:\RecipeAPI\RecipeAPI\obj\Debug\net6.0\RecipeAPI.AssemblyInfo.cs
+E:\RecipeAPI\RecipeAPI\obj\Debug\net6.0\RecipeAPI.csproj.CoreCompileInputs.cache
+E:\RecipeAPI\RecipeAPI\obj\Debug\net6.0\RecipeAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\RecipeAPI\RecipeAPI\obj\Debug\net6.0\RecipeAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\RecipeAPI\RecipeAPI\obj\Debug\net6.0\staticwebassets\msbuild.RecipeAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\RecipeAPI\RecipeAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.RecipeAPI.props
+E:\RecipeAPI\RecipeAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RecipeAPI.props
+E:\RecipeAPI\RecipeAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RecipeAPI.props
+E:\RecipeAPI\RecipeAPI\obj\Debug\net6.0\staticwebassets.pack.json
+E:\RecipeAPI\RecipeAPI\obj\Debug\net6.0\staticwebassets.build.json
+E:\RecipeAPI\RecipeAPI\obj\Debug\net6.0\staticwebassets.development.json
+E:\RecipeAPI\RecipeAPI\obj\Debug\net6.0\scopedcss\bundle\RecipeAPI.styles.css
+E:\RecipeAPI\RecipeAPI\obj\Debug\net6.0\RecipeAPI.csproj.CopyComplete
+E:\RecipeAPI\RecipeAPI\obj\Debug\net6.0\RecipeAPI.dll
+E:\RecipeAPI\RecipeAPI\obj\Debug\net6.0\refint\RecipeAPI.dll
+E:\RecipeAPI\RecipeAPI\obj\Debug\net6.0\RecipeAPI.pdb
+E:\RecipeAPI\RecipeAPI\obj\Debug\net6.0\RecipeAPI.genruntimeconfig.cache
+E:\RecipeAPI\RecipeAPI\obj\Debug\net6.0\ref\RecipeAPI.dll
+C:\Users\user1\Desktop\AngularProject\RecipeAPI\RecipeAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user1\Desktop\AngularProject\RecipeAPI\RecipeAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\user1\Desktop\AngularProject\RecipeAPI\RecipeAPI\bin\Debug\net6.0\RecipeAPI.exe
+C:\Users\user1\Desktop\AngularProject\RecipeAPI\RecipeAPI\bin\Debug\net6.0\RecipeAPI.deps.json
+C:\Users\user1\Desktop\AngularProject\RecipeAPI\RecipeAPI\bin\Debug\net6.0\RecipeAPI.runtimeconfig.json
+C:\Users\user1\Desktop\AngularProject\RecipeAPI\RecipeAPI\bin\Debug\net6.0\RecipeAPI.dll
+C:\Users\user1\Desktop\AngularProject\RecipeAPI\RecipeAPI\bin\Debug\net6.0\RecipeAPI.pdb
+C:\Users\user1\Desktop\AngularProject\RecipeAPI\RecipeAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\AngularProject\RecipeAPI\RecipeAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\AngularProject\RecipeAPI\RecipeAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\AngularProject\RecipeAPI\RecipeAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\AngularProject\RecipeAPI\RecipeAPI\bin\Debug\net6.0\Recipe.Data.dll
+C:\Users\user1\Desktop\AngularProject\RecipeAPI\RecipeAPI\bin\Debug\net6.0\Recipe.Data.pdb
+C:\Users\user1\Desktop\AngularProject\RecipeAPI\RecipeAPI\obj\Debug\net6.0\RecipeAPI.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\AngularProject\RecipeAPI\RecipeAPI\obj\Debug\net6.0\RecipeAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\AngularProject\RecipeAPI\RecipeAPI\obj\Debug\net6.0\RecipeAPI.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\AngularProject\RecipeAPI\RecipeAPI\obj\Debug\net6.0\RecipeAPI.AssemblyInfo.cs
+C:\Users\user1\Desktop\AngularProject\RecipeAPI\RecipeAPI\obj\Debug\net6.0\RecipeAPI.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\AngularProject\RecipeAPI\RecipeAPI\obj\Debug\net6.0\RecipeAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\AngularProject\RecipeAPI\RecipeAPI\obj\Debug\net6.0\RecipeAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\AngularProject\RecipeAPI\RecipeAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user1\Desktop\AngularProject\RecipeAPI\RecipeAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user1\Desktop\AngularProject\RecipeAPI\RecipeAPI\obj\Debug\net6.0\scopedcss\bundle\RecipeAPI.styles.css
+C:\Users\user1\Desktop\AngularProject\RecipeAPI\RecipeAPI\obj\Debug\net6.0\RecipeAPI.csproj.CopyComplete
+C:\Users\user1\Desktop\AngularProject\RecipeAPI\RecipeAPI\obj\Debug\net6.0\RecipeAPI.dll
+C:\Users\user1\Desktop\AngularProject\RecipeAPI\RecipeAPI\obj\Debug\net6.0\refint\RecipeAPI.dll
+C:\Users\user1\Desktop\AngularProject\RecipeAPI\RecipeAPI\obj\Debug\net6.0\RecipeAPI.pdb
+C:\Users\user1\Desktop\AngularProject\RecipeAPI\RecipeAPI\obj\Debug\net6.0\RecipeAPI.genruntimeconfig.cache
+C:\Users\user1\Desktop\AngularProject\RecipeAPI\RecipeAPI\obj\Debug\net6.0\ref\RecipeAPI.dll

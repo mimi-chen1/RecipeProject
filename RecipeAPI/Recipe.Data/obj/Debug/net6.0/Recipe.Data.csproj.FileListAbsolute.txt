@@ -10,3 +10,37 @@ C:\Users\user1\Desktop\שעורי בית\כתה ו' תשפד\Angular\פרויק�
 C:\Users\user1\Desktop\שעורי בית\כתה ו' תשפד\Angular\פרויקט\Recipe\RecipeAPI\Recipe.Data\obj\Debug\net6.0\refint\Recipe.Data.dll
 C:\Users\user1\Desktop\שעורי בית\כתה ו' תשפד\Angular\פרויקט\Recipe\RecipeAPI\Recipe.Data\obj\Debug\net6.0\Recipe.Data.pdb
 C:\Users\user1\Desktop\שעורי בית\כתה ו' תשפד\Angular\פרויקט\Recipe\RecipeAPI\Recipe.Data\obj\Debug\net6.0\ref\Recipe.Data.dll
+C:\תכנות ו\Angular\Recipe-Project-Angular\RecipeAPI\Recipe.Data\bin\Debug\net6.0\Recipe.Data.deps.json
+C:\תכנות ו\Angular\Recipe-Project-Angular\RecipeAPI\Recipe.Data\bin\Debug\net6.0\Recipe.Data.dll
+C:\תכנות ו\Angular\Recipe-Project-Angular\RecipeAPI\Recipe.Data\bin\Debug\net6.0\Recipe.Data.pdb
+C:\תכנות ו\Angular\Recipe-Project-Angular\RecipeAPI\Recipe.Data\obj\Debug\net6.0\Recipe.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\תכנות ו\Angular\Recipe-Project-Angular\RecipeAPI\Recipe.Data\obj\Debug\net6.0\Recipe.Data.AssemblyInfoInputs.cache
+C:\תכנות ו\Angular\Recipe-Project-Angular\RecipeAPI\Recipe.Data\obj\Debug\net6.0\Recipe.Data.AssemblyInfo.cs
+C:\תכנות ו\Angular\Recipe-Project-Angular\RecipeAPI\Recipe.Data\obj\Debug\net6.0\Recipe.Data.csproj.CoreCompileInputs.cache
+C:\תכנות ו\Angular\Recipe-Project-Angular\RecipeAPI\Recipe.Data\obj\Debug\net6.0\Recipe.Data.dll
+C:\תכנות ו\Angular\Recipe-Project-Angular\RecipeAPI\Recipe.Data\obj\Debug\net6.0\refint\Recipe.Data.dll
+C:\תכנות ו\Angular\Recipe-Project-Angular\RecipeAPI\Recipe.Data\obj\Debug\net6.0\Recipe.Data.pdb
+C:\תכנות ו\Angular\Recipe-Project-Angular\RecipeAPI\Recipe.Data\obj\Debug\net6.0\ref\Recipe.Data.dll
+E:\RecipeAPI\Recipe.Data\bin\Debug\net6.0\Recipe.Data.deps.json
+E:\RecipeAPI\Recipe.Data\bin\Debug\net6.0\Recipe.Data.dll
+E:\RecipeAPI\Recipe.Data\bin\Debug\net6.0\Recipe.Data.pdb
+E:\RecipeAPI\Recipe.Data\obj\Debug\net6.0\Recipe.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\RecipeAPI\Recipe.Data\obj\Debug\net6.0\Recipe.Data.AssemblyInfoInputs.cache
+E:\RecipeAPI\Recipe.Data\obj\Debug\net6.0\Recipe.Data.AssemblyInfo.cs
+E:\RecipeAPI\Recipe.Data\obj\Debug\net6.0\Recipe.Data.csproj.CoreCompileInputs.cache
+E:\RecipeAPI\Recipe.Data\obj\Debug\net6.0\Recipe.Data.dll
+E:\RecipeAPI\Recipe.Data\obj\Debug\net6.0\refint\Recipe.Data.dll
+E:\RecipeAPI\Recipe.Data\obj\Debug\net6.0\Recipe.Data.pdb
+E:\RecipeAPI\Recipe.Data\obj\Debug\net6.0\ref\Recipe.Data.dll
+C:\Users\user1\Desktop\AngularProject\RecipeAPI\Recipe.Data\bin\Debug\net6.0\Recipe.Data.deps.json
+C:\Users\user1\Desktop\AngularProject\RecipeAPI\Recipe.Data\bin\Debug\net6.0\Recipe.Data.dll
+C:\Users\user1\Desktop\AngularProject\RecipeAPI\Recipe.Data\bin\Debug\net6.0\Recipe.Data.pdb
+C:\Users\user1\Desktop\AngularProject\RecipeAPI\Recipe.Data\obj\Debug\net6.0\Recipe.Data.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\AngularProject\RecipeAPI\Recipe.Data\obj\Debug\net6.0\Recipe.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\AngularProject\RecipeAPI\Recipe.Data\obj\Debug\net6.0\Recipe.Data.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\AngularProject\RecipeAPI\Recipe.Data\obj\Debug\net6.0\Recipe.Data.AssemblyInfo.cs
+C:\Users\user1\Desktop\AngularProject\RecipeAPI\Recipe.Data\obj\Debug\net6.0\Recipe.Data.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\AngularProject\RecipeAPI\Recipe.Data\obj\Debug\net6.0\Recipe.Data.dll
+C:\Users\user1\Desktop\AngularProject\RecipeAPI\Recipe.Data\obj\Debug\net6.0\refint\Recipe.Data.dll
+C:\Users\user1\Desktop\AngularProject\RecipeAPI\Recipe.Data\obj\Debug\net6.0\Recipe.Data.pdb
+C:\Users\user1\Desktop\AngularProject\RecipeAPI\Recipe.Data\obj\Debug\net6.0\ref\Recipe.Data.dll

@@ -1,11 +1,10 @@
-import { CommonModule } from '@angular/common';
 import { Component, OnInit } from '@angular/core';
 import { FormBuilder, FormGroup, ReactiveFormsModule, Validators } from '@angular/forms';
-import { RecipeService } from '../../Recipe/recipe.service';
-import { User } from '../user.modle';
-import { UserService } from '../user.service';
 import { Router } from '@angular/router';
 import Swal from 'sweetalert2';
+
+import { User } from '../user.modle';
+import { UserService } from '../user.service';
 
 @Component({
   selector: 'app-register',
@@ -18,7 +17,7 @@ export class RegisterComponent implements OnInit {
   registerForm!: FormGroup;
   userExists = false;
   registrationFailed = false;
-
+userName1!:string
   constructor(private router: Router,private fb: FormBuilder, private _userService: UserService) { }
 
   ngOnInit() {
@@ -29,6 +28,12 @@ export class RegisterComponent implements OnInit {
       confirmPassword: ['', Validators.required],
       address: ['', Validators.required]
     }, { validator: this.checkPasswords });
+    
+    const currentUserString = sessionStorage.getItem('currentUser');
+    if (currentUserString !== null) {
+      const currentUser = JSON.parse(currentUserString);
+      this.userName1=currentUser.username
+      }
   }
   checkPasswords(group: FormGroup) { 
     const pass = group.get('password')?.value;

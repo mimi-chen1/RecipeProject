@@ -1,17 +1,15 @@
 import { Component, OnInit } from '@angular/core';
 import { FormGroup, FormBuilder, Validators, ReactiveFormsModule, FormsModule, FormArray } from '@angular/forms';
 import { Router } from '@angular/router';
+import Swal from 'sweetalert2';
+
 import { Recipe } from '../recipe.model';
 import { RecipeService } from '../recipe.service';
-import { CommonModule } from '@angular/common';
 import { Category } from '../../Category/category.model';
 import { CategoryService } from '../../Category/category.service';
-import Swal from 'sweetalert2';
 
 @Component({
   selector: 'app-add-recipe',
-  // standalone: true,
-  // imports: [ReactiveFormsModule,CommonModule,FormsModule ],
   templateUrl: './add-recipe.component.html',
   styleUrl: './add-recipe.component.css',
   
@@ -19,15 +17,13 @@ import Swal from 'sweetalert2';
 })
 export class AddRecipeComponent implements OnInit {
   recipeForm!: FormGroup;
-  // selectedCategory: number = 0;
-  // selectedDifficultyLevel: number = 0;
-  // successMessage: string | undefined;
   categories: Category[] = [];
   ingredientsFormArray!: FormArray;
   instructionsFormArray!: FormArray;
   constructor(private router:Router,private fb: FormBuilder, private _recipeService: RecipeService,private _categoryService: CategoryService) { }
 
   ngOnInit() {
+    this.checkLogin()
     this.recipeForm = this.fb.group({
       recipeName: ['', Validators.required],
       preparationTime: ['', Validators.required],
@@ -48,7 +44,19 @@ export class AddRecipeComponent implements OnInit {
       }
     );
   }
-
+checkLogin()
+{
+  const currentUserString = sessionStorage.getItem('currentUser');
+    if(currentUserString==null){
+      console.log("You need to do login")
+      Swal.fire({
+        icon: 'error',
+        title: 'לא מורשה',
+        text: 'עליך להרשם כדי להוסיף מתכון'
+      });
+      this.router.navigate(['/user/login']);
+    }
+}
   addIngredient() {
     this.ingredientsFormArray.push(this.fb.group({ ingredient: '' }));
   }
@@ -83,7 +91,7 @@ export class AddRecipeComponent implements OnInit {
       addRecipe: formattedDate,
       ingredients: ingredients1,
       preparation: instructions1,
-      userId: 1,
+      userId: Number(sessionStorage.getItem('currentUserId')),
       imageRoute: "string"
     };
 

@@ -59,11 +59,11 @@
           "configurations": {
             "production": {
               "buildTarget": "RecipeClient:build:production",
-              "proxyConfig": "C:/Users/user1/Desktop/שעורי בית/כתה ו' תשפד/Angular/פרויקט/Recipe/RecipeClient/src/app/proxy.config.json"
+              "proxyConfig": "C:/תכנות ו/Angular/Recipe-Project-Angular/RecipeClient/src/app/proxy.config.json"
             },
             "development": {
               "buildTarget": "RecipeClient:build:development",
-              "proxyConfig": "C:/Users/user1/Desktop/שעורי בית/כתה ו' תשפד/Angular/פרויקט/Recipe/RecipeClient/src/app/proxy.config.json"
+              "proxyConfig": "C:/תכנות ו/Angular/Recipe-Project-Angular/RecipeClient/src/app/proxy.config.json"
             }
           },
           "defaultConfiguration": "development"
@@ -95,5 +95,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "751d4a77-4636-42c0-a583-dd75101b76ef"
   }
 }
